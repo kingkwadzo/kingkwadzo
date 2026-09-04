@@ -14,7 +14,7 @@
 
 I am an translational and computational immunologist at the **Children's Hospital of Philadelphia (CHOP)** working at the interface of single-cell multi-omics and human immunology.
 
-My work integrates mechanistic immunology with **single-cell RNA sequencing, paired immune repertoire sequencing, bulk immune-repertoire profiling, multiparameter and spectral flow cytometry, and longitudinal statistical analysis**.
+My work integrates mechanistic immunology with **single-cell RNA sequencing, paired immune repertoire sequencing, bulk immune-repertoire profiling, multiparametric flow cytometry, and longitudinal statistical analysis**.
 
 I am particularly interested in using complex human immune datasets to identify biologically meaningful **cellular states, molecular pathways, biomarkers, and testable hypotheses**.
 
@@ -42,7 +42,7 @@ I am particularly interested in using complex human immune datasets to identify 
 
 ### 🧬 Longitudinal Immune reconstitution after allogeneic hematopoietic cell transplantation
 
-Integrated single-cell transcriptomic, immune-repertoire, and high-dimensional cytometry approaches to investigate how transplant platforms shape CD4⁺ T-cell immune reconstitution.
+Integrated single-cell transcriptomic, immune-repertoire, and high-dimensional cytometry approaches to investigate how transplant platforms shape immune reconstitution.
 
 `scRNA-seq` · `scTCR/BCR-seq` · `TCR and BCR repertoire` · `longitudinal modeling`
 
