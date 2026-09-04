@@ -48,7 +48,7 @@ Integrated single-cell transcriptomic, immune-repertoire, and high-dimensional c
 
 ### 🔬 Single-cell immune repertoire analysis
 
-Computational workflows integrating transcriptional immune-cell states with T-cell receptor clonotypes, repertoire diversity, and clonal expansion.
+Computational workflows integrating transcriptional immune-cell states with immune receptor clonotypes, repertoire diversity, and clonal expansion.
 
 `R` · `Seurat` · `scRepertoire` · `TCR` . `BCR`
 
