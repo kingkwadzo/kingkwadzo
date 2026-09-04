@@ -57,4 +57,4 @@ Longitudinal analysis of human immune phenotypes using spectral flow cytometry, 
 
 ## Connect
 
-[LinkedIn](YOUR-LINKEDIN-URL) · [ORCID](YOUR-ORCID-URL) · [Google Scholar](YOUR-GOOGLE-SCHOLAR-URL)
+[LinkedIn](https://www.linkedin.com/in/kingsley-kumashie-b2208511/) · [ORCID](https://orcid.org/0000-0001-7713-1779)
