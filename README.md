@@ -1,4 +1,4 @@
-<h1 align="center">Kingsley Kumashie, Dr. rer. nat.</h1>
+<h1 align="center">Kingsley G. Kumashie, Dr. rer. nat.</h1>
 
 <p align="center">
   <strong>Computational Immunology · Single-Cell multi-omics · Immune Repertoire Analysis · Translational Immunology</strong>
