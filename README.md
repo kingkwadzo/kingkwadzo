@@ -1,7 +1,7 @@
 <h1 align="center">Kingsley Kumashie, Dr. rer. nat.</h1>
 
 <p align="center">
-  <strong>Computational Immunology · Single-Cell Genomics · Immune Repertoire Analysis · Translational Immunology</strong>
+  <strong>Computational Immunology · Single-Cell multi-omics · Immune Repertoire Analysis · Translational Immunology</strong>
 </p>
 
 <p align="center">
@@ -12,9 +12,9 @@
 
 ## About Me
 
-I am an immunologist and computational researcher at the **Children's Hospital of Philadelphia (CHOP)** working at the interface of human immunology, single-cell genomics, and translational research.
+I am an translational and computational immunologist at the **Children's Hospital of Philadelphia (CHOP)** working at the interface of single-cell multi-omics and human immunology.
 
-My work integrates mechanistic immunology with **single-cell RNA sequencing, paired T-cell receptor sequencing, bulk immune-repertoire profiling, multiparameter and spectral flow cytometry, and longitudinal statistical analysis**.
+My work integrates mechanistic immunology with **single-cell RNA sequencing, paired immune repertoire sequencing, bulk immune-repertoire profiling, multiparameter and spectral flow cytometry, and longitudinal statistical analysis**.
 
 I am particularly interested in using complex human immune datasets to identify biologically meaningful **cellular states, molecular pathways, biomarkers, and testable hypotheses**.
 
@@ -24,7 +24,7 @@ I am particularly interested in using complex human immune datasets to identify 
 * **Immune repertoire biology** — Repertoire diversity, clonality, clonal expansion, and transcriptome–repertoire integration
 * **Translational immunology** — immune reconstitution, transplantation, vaccination, and immune dysfunction
 * **Computational biology** — reproducible analysis of longitudinal and high-dimensional human datasets
-* **High-dimensional cytometry** — multiparameter and spectral flow cytometry for human immune phenotyping
+* **High-dimensional cytometry** — multiparametric flow cytometry for human immune phenotyping
 
 ## Computational & Experimental Toolkit
 
@@ -35,7 +35,7 @@ I am particularly interested in using complex human immune datasets to identify 
 | **Differential expression** | edgeR · DESeq2                                                                      |
 | **Pathway analysis**        | fgsea · gene-set enrichment analysis                                                |
 | **Statistics**              | Linear mixed-effects models · longitudinal analysis · nonparametric statistics      |
-| **Immune repertoire**       | scTCR-seq · bulk TCR-seq · clonality · repertoire diversity · clonal tracking       |
+| **Immune repertoire**       | scTCR/BCR-seq · bulk TCR/BCR-seq · clonality · repertoire diversity · clonal tracking       |
 | **Cytometry**               | Multiparameter flow cytometry · spectral flow cytometry . FACS                      |
 
 ## Research Projects
@@ -44,13 +44,13 @@ I am particularly interested in using complex human immune datasets to identify 
 
 Integrated single-cell transcriptomic, immune-repertoire, and high-dimensional cytometry approaches to investigate how transplant platforms shape CD4⁺ T-cell immune reconstitution.
 
-`scRNA-seq` · `scTCR-seq` · `TCR repertoire` · `longitudinal modeling`
+`scRNA-seq` · `scTCR/BCR-seq` · `TCR and BCR repertoire` · `longitudinal modeling`
 
 ### 🔬 Single-cell immune repertoire analysis
 
 Computational workflows integrating transcriptional immune-cell states with T-cell receptor clonotypes, repertoire diversity, and clonal expansion.
 
-`R` · `Seurat` · `scRepertoire` · `TCR`
+`R` · `Seurat` · `scRepertoire` · `TCR` . `BCR`
 
 ### 📊 High-dimensional immune profiling
 
