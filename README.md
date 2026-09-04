@@ -5,69 +5,56 @@
 </p>
 
 <p align="center">
-  Translational and computational immunologist integrating Single-Cell Multi-omics, immune-repertoire analysis, and high-dimensional cytometry to study human immune responses and immune reconstitution.
+  Integrating single-cell multi-omics, immune-repertoire profiling, and high-dimensional cytometry to study human immune responses and immune reconstitution.
 </p>
 
 ---
 
 ## About Me
 
-I am a translational and computational immunologist at the **Children's Hospital of Philadelphia (CHOP)** working at the interface of Single-Cell Multi-omics and human immunology.
+I am a translational and computational immunologist at the **Children's Hospital of Philadelphia (CHOP)**. My work combines mechanistic immunology with **single-cell sequencing, immune-repertoire analysis, high-dimensional cytometry, and longitudinal statistical modeling** to define cellular states, molecular pathways, and biomarkers in human immune responses.
 
-My work integrates mechanistic immunology with **single-cell RNA sequencing, paired immune repertoire sequencing, bulk immune-repertoire profiling, multiparameter flow cytometry, and longitudinal statistical analysis**.
+## Research Focus
 
-I am particularly interested in using complex human immune datasets to identify biologically meaningful **cellular states, molecular pathways, biomarkers, and testable hypotheses**.
+| Area | Focus |
+|---|---|
+| **Single-Cell Immunology** | Cellular states and transcriptional programs in human immune populations |
+| **Immune Repertoire Biology** | TCR/BCR diversity, clonality, clonal expansion, and repertoire–transcriptome integration |
+| **Translational Immunology** | Immune reconstitution, transplantation, vaccination, and immune dysfunction |
+| **Computational Biology** | Reproducible analysis of longitudinal and high-dimensional human datasets |
+| **High-Dimensional Cytometry** | Multiparameter and spectral flow cytometry for human immune phenotyping |
 
-## Research Interests
+## Selected Projects
 
-* **Single-cell immunology** — transcriptional programs and cellular states in human immune populations
-* **Immune repertoire biology** — repertoire diversity, clonality, clonal expansion, and transcriptome–repertoire integration
-* **Translational immunology** — immune reconstitution, transplantation, vaccination, and immune dysfunction
-* **Computational biology** — reproducible analysis of longitudinal and high-dimensional human datasets
-* **High-dimensional cytometry** — multiparameter flow cytometry for human immune phenotyping
+### Longitudinal immune reconstitution after allogeneic HCT
 
-## Computational & Experimental Toolkit
+Integrated single-cell transcriptomics, immune-repertoire profiling, and high-dimensional cytometry to investigate how transplant platforms shape immune reconstitution.
 
-| Area                        | Tools & Approaches                                                                  |
-| --------------------------- | ----------------------------------------------------------------------------------- |
-| **Programming**             | R · Python · Bash                                                                   |
-| **Single-cell analysis**    | Seurat · scRepertoire · clustering · dimensionality reduction · pseudobulk analysis |
-| **Differential expression** | edgeR · DESeq2                                                                      |
-| **Pathway analysis**        | fgsea · gene-set enrichment analysis                                                |
-| **Statistics**              | Linear mixed-effects models · longitudinal analysis · nonparametric statistics      |
-| **Immune repertoire**       | scTCR/BCR-seq · bulk TCR/BCR-seq · clonality · repertoire diversity · clonal tracking       |
-| **Cytometry**               | Multiparameter flow cytometry · spectral flow cytometry · FACS                      |
+`scRNA-seq` · `scTCR/BCR-seq` · `immune repertoire` · `longitudinal modeling`
 
-## Research Projects
+### Single-cell immune repertoire analysis
 
-### 🧬 Longitudinal immune reconstitution after allogeneic hematopoietic cell transplantation
-
-Integrated single-cell transcriptomic, immune-repertoire, and high-dimensional cytometry approaches to investigate how transplant platforms shape immune reconstitution.
-
-`scRNA-seq` · `scTCR/BCR-seq` · `TCR and BCR repertoire` · `longitudinal modeling`
-
-### 🔬 Single-cell immune repertoire analysis
-
-Computational workflows integrating transcriptional immune-cell states with immune receptor clonotypes, repertoire diversity, and clonal expansion.
+Computational workflows integrating transcriptional cell states with immune-receptor clonotypes, repertoire diversity, and clonal expansion.
 
 `R` · `Seurat` · `scRepertoire` · `TCR` · `BCR`
 
-### 📊 High-dimensional immune profiling
+### High-dimensional immune profiling
 
-Longitudinal analysis of human immune-cell phenotypes using spectral flow cytometry with statistical modeling and publication-quality visualization.
+Longitudinal analysis of human immune phenotypes using spectral flow cytometry, statistical modeling, and publication-quality visualization.
 
 `flow cytometry` · `R` · `statistics` · `visualization`
 
-## Research Themes
+## Methods & Tools
 
-**T-cell biology** · **Immune reconstitution** · **Cellular immunotherapy** · **Single-Cell Multi-omics** · **Immune repertoires** · **Human translational immunology**
+| Area | Tools & Approaches |
+|---|---|
+| **Programming** | R · Python · Bash |
+| **Single-cell** | Seurat · scRepertoire · clustering · dimensionality reduction · pseudobulk analysis |
+| **Transcriptomics** | edgeR · DESeq2 · fgsea · gene-set enrichment |
+| **Statistics** | Linear mixed-effects models · longitudinal analysis · nonparametric statistics |
+| **Immune repertoire** | scTCR/BCR-seq · bulk TCR/BCR-seq · clonality · diversity · clonal tracking |
+| **Cytometry** | Multiparameter flow cytometry · spectral flow cytometry · FACS |
 
 ## Connect
 
 [LinkedIn](YOUR-LINKEDIN-URL) · [ORCID](YOUR-ORCID-URL) · [Google Scholar](YOUR-GOOGLE-SCHOLAR-URL)
-
----
-
-<p align="center">
-  <i>Integrating computational and experimental immunology to understand human immune responses.</i>
-</p>
